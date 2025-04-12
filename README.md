@@ -56,6 +56,7 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 - 🎥 MIT 18.335
 
 #### 3. **Systems & Programming**
+- 🎥 [Harvard CS50](https://www.youtube.com/watch?v=LfaMVlDaQ24)
 - 🎥 [C++ Full Course Link](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - 🎥 [Algorithmic Trading With Python](https://www.youtube.com/watch?v=9Y3yaoi9rUQ)
 
