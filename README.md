@@ -10,19 +10,19 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 - 🎥 [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite)
 
 #### 1. **Calculus (Single & Multivariable)**
-- 📘 *Calculus* by Michael Spivak
+- 📘 [*Calculus* by Michael Spivak](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/01%20-%20Math/01%20-%20Calculus/Calculus%20-%20Spivak.pdf)
 - 🎥 MIT OCW 18.01 + 18.02
 
 #### 2. **Linear Algebra**
-- 📘 *Linear Algebra Done Right* by Sheldon Axler
+- 📘 [*Linear Algebra Done Right* by Sheldon Axler](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/01%20-%20Math/02%20-%20Linear%20Algebra/LADR4e.pdf)
 - 🎥 MIT OCW 18.06
 
 #### 3. **Probability Theory**
-- 📘 *A First Course in Probability* by Sheldon Ross
+- 📘 [*A First Course in Probability* by Sheldon Ross](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/01%20-%20Math/03%20-%20Probability%20Theory/A-First-Course-in-Probability.pdf)
 - 🎥 MIT 6.041SC (Probabilistic Systems Analysis)
 
 #### 4. **Real Analysis**
-- 📘 *Understanding Analysis* by Stephen Abbott
+- 📘 [*Understanding Analysis* by Stephen Abbott](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/01%20-%20Math/04%20-%20Real%20Analysis/2015_Book_UnderstandingAnalysis.pdf)
 - 🎥 Harvey Mudd Real Analysis Lectures (YouTube)
 
 ---
