@@ -30,16 +30,16 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 ### 📊 Statistics Core
 
 #### 1. **Mathematical Statistics**
-- 📘 *Mathematical Statistics with Applications* – Wackerly, Mendenhall
-- 📘 *Statistical Inference* – Casella & Berger (advanced)
+- 📘 [*Mathematical Statistics with Applications* – Wackerly, Mendenhall](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/01%20-%20Mathematical%20Statistics/Mathematical%20Statistics%20with%20Applications-%207th%20Edition.pdf)
+- 📘 [*Statistical Inference* – Casella & Berger (advanced)](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/01%20-%20Mathematical%20Statistics/Casella_Berger_Statistical_Inference.pdf)
 - 🎥 Stanford STATS 110 (Joe Blitzstein)
 
 #### 2. **Bayesian Statistics**
-- 📘 *Bayesian Data Analysis* – Gelman et al.
+- 📘 [*Bayesian Data Analysis* – Gelman et al.](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/02%20-%20Bayesian%20Statistics/Bayesian%20Data%20Analysis%20-%20Third%20Edition%20(20th%20Feb%202025).pdf)
 - 🎥 Statistical Rethinking – Richard McElreath
 
 #### 3. **Time Series & Econometrics**
-- 📘 *Time Series Analysis and Its Applications* – Shumway & Stoffer
+- 📘 [*Time Series Analysis and Its Applications* – Shumway & Stoffer](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/03%20-%20Time%20Series%20%26%20Econometrics/time-series-analysis-and-its-applications-with-examples-in-r.pdf)
 - 🎥 Princeton ECO 313 (YouTube)
 
 ---
