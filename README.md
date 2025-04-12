@@ -7,6 +7,7 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 ### 🔢 Math Core
 
 #### 0. **Pre-Calculus**
+- 🎥 [Khan Academy Get Ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc)
 - 🎥 [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite)
 
 #### 1. **Calculus (Single & Multivariable)**
