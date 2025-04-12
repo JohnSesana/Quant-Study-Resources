@@ -47,24 +47,25 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 ### 💻 Computer Science / Numerical
 
 #### 1. **Algorithms & Data Structures**
-- 📘 *Introduction to Algorithms* (CLRS)
+- 📘 [*Introduction to Algorithms* (CLRS)](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/03%20-%20Time%20Series%20%26%20Econometrics/time-series-analysis-and-its-applications-with-examples-in-r.pdf)
 - 🎥 MIT 6.006
 
 #### 2. **Numerical Methods**
-- 📘 *Numerical Linear Algebra* – Trefethen & Bau
+- 📘 [*Numerical Linear Algebra* – Trefethen & Bau](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/03%20-%20Computer%20Science/02%20-%20Numerical%20Methods/Numerical%20Linear%20Algebra%20Trefethen-Bau.pdf)
 - 🎥 MIT 18.335
 
 #### 3. **Systems & Programming**
-- Harvard CS50 (great for systems/C background)
-- Learn **Python** + **C++** (core quant languages)
+- 🎥 [C++ Full Course Link](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+- 🎥 [Algorithmic Trading With Python](https://www.youtube.com/watch?v=9Y3yaoi9rUQ)
 
 ---
 
 ### 💰 Finance
 
 #### 1. **Intro to Finance & Markets**
-- 📘 *Investment Science* – David Luenberger
+- 📘 [*Investment Science* – David Luenberger](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/04%20-%20Finance/01%20-%20Intro%20to%20Finance%20%26%20Markets/Investment%20Science%20-%20David%20Luenberger.pdf)
 - 🎥 Yale Financial Markets – Robert Shiller
 
 #### 2. **Stochastic Calculus**
-- 📘 *Stochastic Calculus for Finance I & II* – Steven Shreve
+- 📘 [*Stochastic Calculus for Finance I* – Steven Shreve](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/04%20-%20Finance/02%20-%20Stochastic%20Calculus/Steve_Shreve_Stochastic_Calculus_for_Finance_I.pdf)
+- 📘 [*Stochastic Calculus for Finance II* – Steven Shreve](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/04%20-%20Finance/02%20-%20Stochastic%20Calculus/Steve_Shreve_Stochastic_Calculus_for_Finance_I.pdf)
