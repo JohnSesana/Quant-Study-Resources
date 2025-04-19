@@ -30,6 +30,9 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 
 ### 📊 Statistics Core
 
+#### 0. **Introduction**
+- 🎥 [Khan Academy Get Ready for AP Statistics](https://www.khanacademy.org/math/get-ready-for-ap-statistics)
+
 #### 1. **Mathematical Statistics**
 - 📘 [*Mathematical Statistics with Applications* – Wackerly, Mendenhall](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/01%20-%20Mathematical%20Statistics/Mathematical%20Statistics%20with%20Applications-%207th%20Edition.pdf)
 - 📘 [*Statistical Inference* – Casella & Berger (advanced)](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/02%20-%20Statistics/01%20-%20Mathematical%20Statistics/Casella_Berger_Statistical_Inference.pdf)
