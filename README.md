@@ -10,7 +10,7 @@ Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 | Discrete Math        | Logic, proofs, sets, combinatorics                 | MIT OCW, *Discrete Mathematics* by Rosen                                            |
 | Intro to Proofs      | How to write formal proofs                         | *How to Prove It* by Velleman                                                       |
 | Probability + Stats  | Distributions, expectation, Bayes, CLT             | Blitzstein’s Harvard Stats, StatQuest, MIT OCW                                     |
-| Real Analysis (late-year) | Sequences, limits, continuity, rigor           | *Understanding Analysis* by Abbott                                                  |
+| Real Analysis        | Sequences, limits, continuity, rigor           | *Understanding Analysis* by Abbott                                                  |
 
 
 ## 📚 Core Subjects and Resources
