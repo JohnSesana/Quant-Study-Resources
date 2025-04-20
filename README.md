@@ -2,13 +2,23 @@
 
 Resources on Math, Stats, CS, and Finance to help you become a quant researcher
 
+## 📚 Focus on these subjects in order:
+| Subject              | What to Learn                                      | Resource Suggestions                                                                 |
+|----------------------|----------------------------------------------------|--------------------------------------------------------------------------------------|
+| Calculus I–III       | Limits, derivatives, integrals, multivariable      | *Stewart Calculus*, Khan Academy, MIT OCW                                           |
+| Linear Algebra       | Vectors, matrices, eigenvalues, orthogonality      | *Linear Algebra Done Right* (Axler), 3Blue1Brown videos                             |
+| Discrete Math        | Logic, proofs, sets, combinatorics                 | MIT OCW, *Discrete Mathematics* by Rosen                                            |
+| Intro to Proofs      | How to write formal proofs                         | *How to Prove It* by Velleman                                                       |
+| Probability + Stats  | Distributions, expectation, Bayes, CLT             | Blitzstein’s Harvard Stats, StatQuest, MIT OCW                                     |
+| Real Analysis (late-year) | Sequences, limits, continuity, rigor           | *Understanding Analysis* by Abbott                                                  |
+
+
 ## 📚 Core Subjects and Resources
 
 ### 🔢 Math Core
 
 #### 0. **Pre-Calculus**
 - 🎥 [Khan Academy Get Ready for AP Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc)
-- 🎥 [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:composite)
 
 #### 1. **Calculus (Single & Multivariable)**
 - 📘 [*Calculus* by Michael Spivak](https://github.com/JohnSesana/Quant-Study-Resources/blob/main/01%20-%20Math/01%20-%20Calculus/Calculus%20-%20Spivak.pdf)
